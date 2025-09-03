@@ -147,18 +147,4 @@ Optimized for deployment on edge devices:
 - Cloud dashboard for live monitoring  
 - Integration with municipal traffic systems  
 
----
 
-## 📄 License  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📬 Contact  
-**Developer**: [Your Name]  
-**Email**: your.email@example.com  
-**GitHub**: [@yourusername](https://github.com/yourusername)  
-
----
-
-🔧 *Empowering safer cities with intelligent vision.* 🏙️🚦
